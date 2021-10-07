@@ -6,7 +6,6 @@
 
 -:open_umbrella: Ferramentas de desenvolvimento: Visual Studio Code // Eclipse.
 
--🔨 Busco oportunidade de ingressar na ára de desenvolvimento.
 
  ##
  
