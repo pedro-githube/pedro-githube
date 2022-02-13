@@ -1,10 +1,10 @@
 ### Olá ! Guys ! :man_technologist:
 
--:man_student: Estudante de Análise e Desenvolvimento de Sistemas do Senai.
+-:man_student: Estudante de Análise e Desenvolvimento de Sistemas da FMU.
 
--📚 Aprendendo JavaScript e Java Web.
+-📚 Aprendendo Java.
 
--:open_umbrella: Ferramentas de desenvolvimento: Visual Studio Code // Eclipse.
+-:open_umbrella: Ferramentas de desenvolvimento: Visual Studio Code // Eclipse // Postman.
 
 
  ##
