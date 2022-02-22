@@ -2,7 +2,7 @@
 
 -:man_student: Estudante de Análise e Desenvolvimento de Sistemas da FMU.
 
--📚 Aprendendo Java.
+-📚 Aprendendo Java Spring Boot e JPA.
 
 
 -:open_umbrella: Ferramentas de desenvolvimento: Visual Studio Code // Eclipse // Postman.
