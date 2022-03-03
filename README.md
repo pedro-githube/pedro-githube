@@ -1,5 +1,8 @@
 ### Olá Pessoal! :man_technologist:
 
+Formado técnico em eletrônica, análise desenvolvimento de sistemas e cursando superior em análise e desenvolvimento de sistemas, em processo de transição de carreira. Atualmente venho estudando e aprofundando nas linguagens de programação Java e PL/SQL, desenvolvendo projetos para colocar em prática o meu aprendizado. O meu principal objetivo é me introduzir na área de desenvolvimento.
+
+
 -:man_student: Estudante de Análise e Desenvolvimento de Sistemas da FMU.
 
 -📚 Aprendendo Java Spring Boot e JPA.
