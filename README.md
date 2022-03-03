@@ -9,7 +9,7 @@ Formado técnico em eletrônica, análise desenvolvimento de sistemas e cursando
 
 -📚 Banco de dados: PL/SQL (Oralce e MySQL).
 
-
+-:diamonds: No momento estou desenvolvendo os README de cada repositório.
 
 -:open_umbrella: Ferramentas de desenvolvimento: Visual Studio Code // Eclipse STS // Postman.
 
