@@ -1,11 +1,13 @@
-### Olá ! Guys ! :man_technologist:
+### Olá Pessoal! :man_technologist:
 
 -:man_student: Estudante de Análise e Desenvolvimento de Sistemas da FMU.
 
 -📚 Aprendendo Java Spring Boot e JPA.
+-📚 Banco de dados: PL/SQL (Oralce e MySQL).
 
 
--:open_umbrella: Ferramentas de desenvolvimento: Visual Studio Code // Eclipse // Postman.
+
+-:open_umbrella: Ferramentas de desenvolvimento: Visual Studio Code // Eclipse STS // Postman.
 
 
  ##
