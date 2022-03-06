@@ -5,9 +5,9 @@ Formado técnico em eletrônica, análise desenvolvimento de sistemas e cursando
 
 -:man_student: Estudante de Análise e Desenvolvimento de Sistemas da FMU.
 
--📚 Aprendendo Java Spring Boot e JPA.
+-📚 Aprendendo Java Spring Boot.
 
--📚 Banco de dados: PL/SQL (Oralce e MySQL).
+-📚 Banco de dados: PL/SQL e SQL (Oralce e MySQL).
 
 -:diamonds: No momento estou desenvolvendo os README de cada repositório.
 
