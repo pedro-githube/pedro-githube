@@ -1,20 +1,29 @@
-### Olá Pessoal! :man_technologist:
+### Hi Guys! :man_technologist:
 
-Formado técnico em eletrônica, análise desenvolvimento de sistemas e cursando superior em análise e desenvolvimento de sistemas, em processo de transição de carreira. Atualmente venho estudando e aprofundando nas linguagens de programação Java e PL/SQL, desenvolvendo projetos para colocar em prática o meu aprendizado. O meu principal objetivo é me introduzir na área de desenvolvimento.
-
-
--:man_student: Estudante de Análise e Desenvolvimento de Sistemas da FMU.
-
--📚 Aprendendo Java Spring Boot.
-
--📚 Banco de dados: PL/SQL e SQL (Oralce e MySQL).
-
--:diamonds: No momento estou desenvolvendo os README de cada repositório.
-
--:open_umbrella: Ferramentas de desenvolvimento: Visual Studio Code // Eclipse STS // Postman.
+Technician in electronics, systems analysis and development and studying for a higher degree in systems analysis and development, in the process of career transition. I am currently studying and deepening in Java and PL/SQL programming languages, developing projects to put my learning into practice. My main goal is to introduce myself to backend development.
 
 
- ##
+#### -:man_student: Student of Systems Analysis and Development at FMU.
+
+#### -:nerd_face: Learning: Spring Boot Expert: JPA, RESTFul API, Security, JWT and More.
+
+#### -📚 Hard skills:
+* Java
+* Spring Boot framework
+* PL/SQL and SQL
+* ( Oracle, MySQL, PostgresSQL, MongoDB)
+* Java Script
+* HTML/CSS
+* GIT | GITHUB
+
+ #### -:open_umbrella: Development tools: 
+* Visual Studio Code 
+* Eclipse STS | Intellij
+* PL/SQL Developer
+* Postman
+
+#### -:diamonds: Developing the README of each repository.
+ 
  
  <div>
   <a href="https://github.com/pedro-githube">
@@ -27,9 +36,9 @@ Formado técnico em eletrônica, análise desenvolvimento de sistemas e cursando
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Pedro-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="Pedro-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+ <img align="center" alt="Pedro-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
  
  ##
