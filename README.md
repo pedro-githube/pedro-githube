@@ -30,8 +30,6 @@ Technician in electronics, systems analysis and development and studying for a h
 
 #### - :diamonds: Developing the README of each repository.
 
-<br></br>
-
 ## ⚙️ &nbsp;GitHub Analytics
  <div>
   <a href="https://github.com/pedro-githube">
