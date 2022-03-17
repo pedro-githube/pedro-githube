@@ -17,7 +17,7 @@ Technician in electronics, systems analysis and development and studying for a h
 * Spring Boot framework 
 * PL/SQL | SQL 
 * ( Oracle, MySQL, PostgresSQL, MongoDB)
-* Java Script
+* JavaScript
 * HTML | CSS
 * GIT | Github
 * Heroku | Netlify
